@@ -158,34 +158,7 @@ Hospital-Emergency-Room-Dashboard/
 
 ---
 
-# 🚀 How to Run the Project
 
-## Step 1
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/Hospital-Emergency-Room-Dashboard.git
-```
-
-## Step 2
-Open dataset in:
-- Power BI
-- Tableau
-- Python
-- Excel
-
-## Step 3
-Explore dashboards and insights
-
----
-
-# 💻 Sample Python Analysis
-
-```python
-import pandas as pd
-
-# Load dataset
-df = pd.read_csv("Hospital_ER_Data.csv")
 
 # Average wait time by weekday
 avg_wait = df.groupby('DayOfWeek')['Patient Waittime'].mean()
@@ -211,13 +184,13 @@ Feel free to fork this repository and improve the project.
 
 ---
 
-# 📧 Contact
+# 📧 Author
 
 👤 Dinesh Tanwar  
 🎓 BCA AI & ML Student  
 📊 Aspiring Data Analyst | Power BI Developer  
 
-## 🔗 Connect With Me
+
 - LinkedIn: linkedin.com/in/dinesh-tanwar-426a333a9
 
 ---
