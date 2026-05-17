@@ -151,7 +151,10 @@ Hospital-Emergency-Room-Dashboard/
 # 📸 Dashboard Preview
 
 ## 🏥 Emergency Room Dashboard
-(Add your Power BI dashboard screenshots here)
+[Alt text]([https://github.com/dinutanwar/Hospital-Emergency-Room-Dashboard/blob/64203cba3c70b7b1fa568878d910707091c14352/image/Screenshot%202026-05-17%20092701.png)
+[Alt text](https://github.com/dinutanwar/Hospital-Emergency-Room-Dashboard/blob/64203cba3c70b7b1fa568878d910707091c14352/image/Screenshot%202026-05-17%20092726.png)
+[Alt text](https://github.com/dinutanwar/Hospital-Emergency-Room-Dashboard/blob/64203cba3c70b7b1fa568878d910707091c14352/image/Screenshot%202026-05-17%20092748.png)
+[Alt text](https://github.com/dinutanwar/Hospital-Emergency-Room-Dashboard/blob/64203cba3c70b7b1fa568878d910707091c14352/image/Screenshot%202026-05-17%20092808.png)
 
 ---
 
@@ -214,7 +217,11 @@ Feel free to fork this repository and improve the project.
 🎓 BCA AI & ML Student  
 📊 Aspiring Data Analyst | Power BI Developer  
 
+## 🔗 Connect With Me
+- LinkedIn: linkedin.com/in/dinesh-tanwar-426a333a9
+
 ---
+
 
 <div align="center">
 
