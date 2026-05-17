@@ -151,9 +151,41 @@ Hospital-Emergency-Room-Dashboard/
 # 📸 Dashboard Preview
 
 ## 🏥 Emergency Room Dashboard
-
+![Alt text](https://github.com/dinutanwar/Hospital-Emergency-Room-Dashboard/blob/60cfae45f7fc95d56f250208ab442f6279069a40/image/Screenshot%202026-05-17%20092701.png)
+![Alt text](https://github.com/dinutanwar/Hospital-Emergency-Room-Dashboard/blob/64203cba3c70b7b1fa568878d910707091c14352/image/Screenshot%202026-05-17%20092726.png)
+![Alt text](https://github.com/dinutanwar/Hospital-Emergency-Room-Dashboard/blob/64203cba3c70b7b1fa568878d910707091c14352/image/Screenshot%202026-05-17%20092748.png)
+![Alt text](https://github.com/dinutanwar/Hospital-Emergency-Room-Dashboard/blob/64203cba3c70b7b1fa568878d910707091c14352/image/Screenshot%202026-05-17%20092808.png)
 
 ---
+
+# 🚀 How to Run the Project
+
+## Step 1
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/Hospital-Emergency-Room-Dashboard.git
+```
+
+## Step 2
+Open dataset in:
+- Power BI
+- Tableau
+- Python
+- Excel
+
+## Step 3
+Explore dashboards and insights
+
+---
+
+# 💻 Sample Python Analysis
+
+```python
+import pandas as pd
+
+# Load dataset
+df = pd.read_csv("Hospital_ER_Data.csv")
 
 # Average wait time by weekday
 avg_wait = df.groupby('DayOfWeek')['Patient Waittime'].mean()
